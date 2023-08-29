@@ -1,0 +1,62 @@
+﻿{
+  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "primaryAccountNumber": "123456789123456",
+  "primaryAccountNumberMasked": "***********1234",
+  "cvv": "234",
+  "expirationMonth": 12,
+  "expirationYear": 26,
+  "nameOnCard": "Test Tester",
+  "postalCode": "20111",
+  "type": "Visa",
+  "creditLimit": 1000,
+  "balance": 0
+}
+
+{
+  "id": "0130972B-709F-4DC1-84C9-7C1114FEAFEE",
+  "primaryAccountNumber": "123456789121234",
+  "primaryAccountNumberMasked": "***********1234",
+  "cvv": "877",
+  "expirationMonth": "03",
+  "expirationYear": 25,
+  "nameOnCard": "John Q Tester",
+  "postalCode": "20117",
+  "type": "Visa",
+  "creditLimit": 2000,
+  "balance": 1200
+}
+
+{
+  "id": "CEA20670-1341-4AF6-9BC3-0C5F17E01240",
+  "primaryAccountNumber": "657895435433456",
+  "primaryAccountNumberMasked": "***********3456",
+  "cvv": "943",
+  "expirationMonth": "05",
+  "expirationYear": 27,
+  "nameOnCard": "Jen Q Tester",
+  "postalCode": "22222",
+  "type": "Visa",
+  "creditLimit": 3000,
+  "balance": 1330
+}
+
+{
+  "id": "458CD33D-1AF8-4CDA-9026-28219C026123",
+  "creditCard": {
+    "id": 0,
+    "creditCardUuid": "CEA20670-1341-4AF6-9BC3-0C5F17E01240",
+    "primaryAccountNumber": "657895435433456",
+    "primaryAccountNumberMasked": "***********3456",
+    "cvv": "943",
+    "expirationMonth": "05",
+    "expirationYear": 27,
+    "nameOnCard": "Jen Q Tester",
+    "postalCode": "22222",
+    "type": "Visa",
+    "creditLimit": 3000,
+    "balance": 1330
+  },
+  "amount": 0,
+  "feeAmount": 0,
+  "datePaid": "2023-08-28T14:47:40.487Z"
+}
